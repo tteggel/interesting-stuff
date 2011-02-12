@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.0 r9654"
-   sodipodi:docname="interesting-stuff.svg"
+   sodipodi:docname="interesting-stuff.svg.2011_02_12_21_06_07.0.svg"
    style="display:inline">
   <defs
      id="defs4">
@@ -108,6 +108,37 @@
        d="m 344.57702,757.15619 c 6.53767,-9.00907 9.67087,-20.495 7.86275,-32.36878 -3.64746,-23.95256 -26.02169,-40.41309 -49.97425,-36.76562 l 0,0 c -1.35455,0.20627 -2.68515,0.47241 -3.98951,0.79537"
        id="path4402-4"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 450.50326,331.96014 c 13.89925,-7.87164 29.96355,-12.36522 47.07738,-12.36522 47.67726,0 87.20891,34.87548 94.47551,80.50701"
+       id="path3761-3-5-7-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none"
+       d="m 406.53645,632.69498 c 0,42.45717 34.41834,76.8755 76.87551,76.8755 42.45717,0 76.8755,-34.41833 76.8755,-76.8755"
+       id="path3761-3-7-77-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:none;display:inline"
+       d="m 344.57702,757.15619 c 6.53767,-9.00907 9.67087,-20.495 7.86275,-32.36878 -3.64746,-23.95256 -26.02169,-40.41309 -49.97425,-36.76562 l 0,0 c -1.35455,0.20627 -2.68515,0.47241 -3.98951,0.79537"
+       id="path4402-4-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;display:inline"
+       d="m 137.51149,637.06447 c 0.50669,-2.01884 1.12459,-4.03084 1.85705,-6.0288 11.24302,-30.66806 45.21867,-46.41518 75.88674,-35.17215 8.13813,2.98346 15.22558,7.5677 21.03682,13.26611"
+       id="path3761-3-7-7-1-7-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;display:inline"
+       d="m 344.57702,757.15619 c 6.53767,-9.00907 9.67087,-20.495 7.86275,-32.36878 -3.64746,-23.95256 -26.02169,-40.41309 -49.97425,-36.76562 l 0,0 c -1.35455,0.20627 -2.68515,0.47241 -3.98951,0.79537"
+       id="path4402-4-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:none;display:inline"
+       d="m 344.57702,757.15619 c 6.53767,-9.00907 9.67087,-20.495 7.86275,-32.36878 -3.64746,-23.95256 -26.02169,-40.41309 -49.97425,-36.76562 l 0,0 c -1.35455,0.20627 -2.68515,0.47241 -3.98951,0.79537"
+       id="path4402-4-60"
+       inkscape:connector-curvature="0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -117,10 +148,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.24"
-     inkscape:cx="184.5067"
-     inkscape:cy="263.76074"
+     inkscape:cx="271.47152"
+     inkscape:cy="192.13326"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="883"
@@ -134,7 +165,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:snap-intersection-paths="true" />
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-bbox="true" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -150,7 +183,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Labels">
+     inkscape:label="Labels"
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
@@ -245,22 +279,30 @@
          xlink:href="#path4129-5"
          id="textPath4149"><tspan
    id="tspan4124">Complexity</tspan></textPath></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       id="text4215-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.78046113,0.62520431,-0.62520431,0.78046113,494.61139,-701.89905)"><textPath
+         xlink:href="#path4402-4-60"
+         id="textPath4404-9">Business<tspan
+   id="tspan4217-8" /></textPath></text>
   </g>
   <g
      inkscape:label="Venn"
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-69.78125,-287.84375)"
-     sodipodi:insensitive="true">
+     transform="translate(-69.78125,-287.84375)">
     <rect
-       style="fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;stroke:#000000;stroke-width:3.9982028;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect2987"
-       width="455.69501"
-       height="446.71893"
-       x="71.776031"
-       y="-736.85724"
-       ry="4.5123129"
+       width="455.56497"
+       height="446.44495"
+       x="72.313011"
+       y="-737.26422"
+       ry="4.5095453"
        transform="scale(1,-1)" />
     <text
        xml:space="preserve"
@@ -476,6 +518,16 @@
        d="m 344.57702,757.15619 c 6.53767,-9.00907 9.67087,-20.495 7.86275,-32.36878 -3.64746,-23.95256 -26.02169,-40.41309 -49.97425,-36.76562 l 0,0 c -1.35455,0.20627 -2.68515,0.47241 -3.98951,0.79537"
        id="path4402"
        inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:1.185323;stroke-miterlimit:4;stroke-dasharray:none;display:inline"
+       id="path3930-4-2-4-5-1"
+       sodipodi:cx="550"
+       sodipodi:cy="489.36218"
+       sodipodi:rx="26"
+       sodipodi:ry="26"
+       d="m 576,489.36218 a 26,26 0 1 1 -52,0 26,26 0 1 1 52,0 z"
+       transform="matrix(-1.6873038,0,0,1.6873038,1267.9598,-482.82666)" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -594,6 +646,19 @@
        style="fill:#009989;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.23305084;stroke-dasharray:none;display:inline"
        d="m 221.45156,418.7654 c -3.69607,4.37611 -6.74079,9.33116 -8.9375,14.71875 0.72735,0.11889 1.45104,0.2199 2.1875,0.3125 0.73646,0.0926 1.47365,0.18597 2.21875,0.25 1.49021,0.12806 3.00929,0.1875 4.53125,0.1875 1.52196,0 3.04104,-0.0595 4.53125,-0.1875 0.7451,-0.064 1.48229,-0.1574 2.21875,-0.25 0.73646,-0.0926 1.46015,-0.19361 2.1875,-0.3125 -2.19671,-5.38759 -5.24143,-10.34264 -8.9375,-14.71875 z"
        id="sw-people-process-tech" />
+    <path
+       style="fill:#009989;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.23305084;stroke-dasharray:none;display:inline"
+       d="m 227.8125,43.625 c -0.97735,3.638321 -1.53125,7.459383 -1.53125,11.40625 0,24.228676 19.64632,43.875 43.875,43.875 1.8709,0 3.72199,-0.116452 5.53125,-0.34375 C 264.94776,76.21571 248.32004,57.22605 227.8125,43.625 z"
+       id="sw-business"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscc"
+       transform="translate(69.78125,287.84375)" />
+    <path
+       style="fill:#009989;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-opacity:0.23305084;stroke-dasharray:none;display:inline"
+       d="m 339.9375,299 c -20.28181,0 -37.32144,13.77247 -42.34375,32.46875 20.50754,13.60105 37.13526,32.59071 47.875,54.9375 21.62118,-2.71627 38.34375,-21.17347 38.34375,-43.53125 0,-24.22868 -19.64632,-43.875 -43.875,-43.875 z"
+       id="business"
+       inkscape:connector-curvature="0"
+       inkscape:label="#business" />
   </g>
   <g
      inkscape:groupmode="layer"
