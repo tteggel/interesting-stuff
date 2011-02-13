@@ -3,9 +3,17 @@ Interesting Stuff
 
 Supporting diagram for introductory post at log.tteggel.org.
 
-stuff.html - The main HTML file hosted in an iframe in the main post.
-interesting-stuff.js - Interactivity and animation.
-interesting-stuff.svg - The venn diagram graphic (produced using Inkscape).
+stuff.html
+----------
+The main HTML file hosted in an iframe in the main post.
+
+interesting-stuff.js
+--------------------
+Interactivity and animation.
+
+interesting-stuff.svg
+---------------------
+The venn diagram graphic (produced using Inkscape).
 
 License
 =======
