@@ -1,7 +1,12 @@
 Interesting Stuff
 =================
 
-Supporting diagram for introductory post at log.tteggel.org.
+Supporting diagram for introductory post at log.tteggel.org. 
+
+I've been wanting to play with SVG + JavScript + HTML for a while and
+the idea for this post came to me whilst I was brainstorming for the
+blog. There's a future post in explaining this and my thoughts on the
+toolchain, SVG vs Canvas etc. 
 
 stuff.html
 ----------
